@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p,h1{
+    color: lightyellow;
+}
+body{
+    background-image: url('snow.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+h1{
+    
+     font-size: 3.5rem;
+    font-weight: bold;
+}
+.container{
+     
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    
+}
+.jumbotron{
+    
+     background-color: #bdd4e7;
+    background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+    ;
+}
+.days-c,
+.hours-c,
+.minutes-c,
+.seconds-c{
+    background-color: rgb(98, 119, 128);
+    margin: 5px;
+    
+}
+
+.days-c p{
+    font-size: 4.5rem;
+}
+.days-c span{
+    font-size: 2.0rem;
+    color:white;
+    
+}
+
+.hours-c p{
+    font-size: 4.5rem;
+}
+.hours-c span{
+    font-size: 2.0rem;
+    color:white;
+    
+}
+.minutes-c p{
+    font-size: 4.5rem;
+}
+.minutes-c span{
+    font-size: 2.0rem;
+    color:white;
+    
+}
+
+.seconds-c p{
+    font-size: 4.5rem;
+}
+.seconds-c span{
+    font-size: 2.0rem;
+    color:white;
+    
+}
