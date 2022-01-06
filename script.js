@@ -7,7 +7,7 @@ const secondsE1=document.getElementById('seconds');
 
 
 
-const myDOB ='2 aug 2021';
+const myDOB ='2 aug 2022';
 
 
 function countdown(){
